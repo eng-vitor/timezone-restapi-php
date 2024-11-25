@@ -1,0 +1,18 @@
+{
+    "name": "eng-vitor/timezonerestapiphp",
+    "description": "a rest api with timezones in php + mongodb",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "EngVitor\\Timezonerestapiphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitor Gabriel",
+            "email": "vitorgmendes99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
